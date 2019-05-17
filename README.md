@@ -16,6 +16,9 @@ Table of Contents
       1. Single
       2. Compound
    5. Scope
+      1. Local
+      2. Global
+      3. Namespace (C++)
 3. Preprocessor
 4. Primitive data types
     1. Boolean
@@ -52,7 +55,12 @@ Table of Contents
       1. Passing by value
       2. Passing by reference (C++)
    5. Variadic functions
-   6. Overloading (C++)
+   6. Function name overloading (C++)
    7. Templates (C++)
 10. Exceptions (C++)
+11. Classes (C++)
+   1. Encapsulation
+   2. Constructors & destructors
+   3. Inheritance
+   4. this pointer
 11. C Standard library
