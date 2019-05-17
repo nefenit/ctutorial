@@ -59,8 +59,8 @@ Table of Contents
    7. Templates (C++)
 10. Exceptions (C++)
 11. Classes (C++)
-   1. Encapsulation
-   2. Constructors & destructors
-   3. Inheritance
-   4. this pointer
+    1. Encapsulation
+    2. Constructors & destructors
+    3. Inheritance
+    4. this pointer
 11. C Standard library
