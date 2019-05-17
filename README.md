@@ -10,12 +10,18 @@ Table of Contents
       3. Overloading (C++)
 2. Program structure
    1. Comments
+      1. Single-line
+      2. Multi-line
+         1. Nesting
    2. Variables
-   3. Expressions
-   4. Statements
+   3. Declaration
+   4. Definition
+   5. Initialization
+   6. Expressions
+   7. Statements
       1. Single
       2. Compound
-   5. Scope
+   8. Scope
       1. Local
       2. Global
       3. Namespace (C++)
