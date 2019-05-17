@@ -38,9 +38,9 @@ Table of Contents
    6. Bit fields
 6. Type-casting
 8. Control flow structers
-   2. Selection statements
-   3. Iteration statements
-   4. Jump statement
+   1. Selection statements
+   2. Iteration statements
+   3. Jump statement
 9. Functions
    1. Syntax
    2. return statement
