@@ -36,6 +36,7 @@ Table of Contents
    1. Pointers
       1. Referncing
       2. Dereferencing
+      3. Function pointers
    2. Arrays
       1. Accessing elements
    3. C-Strings
